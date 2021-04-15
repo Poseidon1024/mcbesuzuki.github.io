@@ -1,7 +1,0 @@
-baseURL = "https://mcbesuzuki.github.io"
-languageCode = "ja-jp"
-title = "My New Hugo Site"
-contentDir = "md"
-publishDir = "docs"
-disableKinds = ["RSS", "sitemap"]
-theme = "blackburn"
